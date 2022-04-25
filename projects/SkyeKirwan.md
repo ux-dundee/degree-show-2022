@@ -27,5 +27,5 @@ Both the web-app reporting tool and monitoring dashboard were built using React,
 ## Outcomes
 Institutions can use the knowledge from this tool to effectively address microaggressions and improve the equality of their workplace through targeted campaigns/ trainings that raise awareness, educate and reduce bias. 
 
-This project was shortlisted for the Association for Black and Minority Ethnic Engineers (AFBE-UK) 'Next Big Idea' pitch in the Equality and Diversity category. Skye presented at the 2022 AFBELive Conference and was awarded a Runner Up prize. More information: 
+This project was shortlisted for the Association for Black and Minority Ethnic Engineers (AFBE-UK) 'Next Big Idea' pitch in the Equality and Diversity category. Skye presented at the 2022 AFBELive Conference and was awarded a Runner Up prize. More info: https://www.dundee.ac.uk/stories/computing-student-skye-shortlisted-national-award?fbclid=IwAR3Fxosfei61ZyC4vPlAD5rE24G_BZ-piodXjXWBkBy3ZmnnCfA1LMyx7gU
 
