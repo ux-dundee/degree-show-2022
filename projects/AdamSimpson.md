@@ -1,8 +1,8 @@
 ---
 layout: project
-studentName: "Adam Simpsion"
+studentName: "Adam Simpson"
 supervisorName: "Prof. Stephen McKenna"
-projectTitle: "A Content-based Image Retrieval System for Assisting with Medical Diagnosis"
+projectTitle: "Learning a representation of skin lesion images using a variational autoencoder"
 projectImage: "sampleImage.jpg"
 
 ---
