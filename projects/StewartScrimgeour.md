@@ -18,11 +18,9 @@ This page is written in Markdown, there is a handy guide on how to use this at t
 <hr>
 
 ## Project Description
-This should include a brief decription of your project. I love cheese, especially the big cheese roquefort. Cheese and wine cream cheese stilton parmesan cut the cheese who moved my cheese smelly cheese cheese triangles. Cream cheese edam swiss gouda roquefort cheese triangles taleggio cauliflower cheese. Cheese and biscuits swiss dolcelatte cow cheeseburger feta brie.
+Accessibility needs will always be present no matter if a person is born with it or they develop it. However not everyone is aware of this fact or account for the fact. It was identified that there is a lack of awareness for accessibility in the modern day.
 
-- Cheddar st. agur blue cheese cheese and wine.
-- Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental.
-- When the cheese comes out everybody's happy
+The project aims to use video games, specifically serious video game, to tackle this lack of awareness. Through the use of educational games, one can teach someone about a topic whilst it being fun and highly engaging for maximum retention of knowledge.
 
 ## Project Findings
 This section should talk about the main findings of your project and the key parts that you want to show off.
