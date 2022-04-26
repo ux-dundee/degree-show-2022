@@ -26,11 +26,3 @@ This should include a brief decription of your project. I love cheese, especiall
 
 ## Project Findings
 This section should talk about the main findings of your project and the key parts that you want to show off.
-
-## Project Media
-If you are really keen you can also create a video to demonstrate your project and embed this in the page. An example of a youTube video being embedded is below. You will want to change the width of this to be 100% and put the height as something around 500.
-
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/YUEaupJk5AI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Cheddar st. agur blue cheese cheese and wine. Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental. When the cheese comes out everybody's happy
