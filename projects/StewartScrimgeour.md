@@ -3,7 +3,7 @@ layout: project
 studentName: "Stewart Scrimgeour"
 supervisorName: "Dr Brian Pluss"
 projectTitle: "Accessibility Game"
-projectImage: "sampleImage.jpg"
+projectImage: "DumbWaysToDie.png"
 
 ---
 
@@ -18,19 +18,13 @@ This page is written in Markdown, there is a handy guide on how to use this at t
 <hr>
 
 ## Project Description
-This should include a brief decription of your project. I love cheese, especially the big cheese roquefort. Cheese and wine cream cheese stilton parmesan cut the cheese who moved my cheese smelly cheese cheese triangles. Cream cheese edam swiss gouda roquefort cheese triangles taleggio cauliflower cheese. Cheese and biscuits swiss dolcelatte cow cheeseburger feta brie.
+Accessibility needs will always be present no matter if a person is born with it or they develop it. However not everyone is aware of this fact or account for the fact. It was identified that there is a lack of awareness for accessibility in the modern day.
 
-- Cheddar st. agur blue cheese cheese and wine.
-- Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental.
-- When the cheese comes out everybody's happy
+The aim of this project was to spread awareness of accessibility through the use of serious video games as an educational tool. This was inspired by the video game “Dumb Ways to Die” which helped to spread awareness about railways safety and showed a real decrease in accidents and deaths on railways.
 
 ## Project Findings
-This section should talk about the main findings of your project and the key parts that you want to show off.
+The testing showed that everyone who played it thought about accessibility and at least gained a little understanding towards the topics presented in the games. Additionally, when asked, the testers had said they would not have been thinking about accessibility at all that day if not for the game. The student considers this a small success already as the whole point of the solution was to spread awareness and get people thinking about accessibility.
 
-## Project Media
-If you are really keen you can also create a video to demonstrate your project and embed this in the page. An example of a youTube video being embedded is below. You will want to change the width of this to be 100% and put the height as something around 500.
+One tester had commented that they had enjoyed the light-hearted presentation of a serious topic. This was a surprising but welcome comment as this is another reason as to why serious games should be considered in educational purposes. This is because what would normally be a heavier topic that people might not want to acknowledge has become a light-hearted game that the user would seek out to have fun.
 
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/YUEaupJk5AI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Cheddar st. agur blue cheese cheese and wine. Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental. When the cheese comes out everybody's happy
+The student found that video games can be an effective way to spread awareness and to aid in education. The student’s own model was implemented with 2 phases of user testing, the feedback of which showed that video games are effective in making a user think more about everyday accessibility concerns and effectively spreading awareness. This is conclusive with the research which shows that video games can be used as an effective way to spread awareness and aid in learning.
