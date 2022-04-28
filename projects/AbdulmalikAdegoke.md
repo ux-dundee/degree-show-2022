@@ -25,17 +25,17 @@ Plus a takeaway for future optimisation of the system: the implementation of oth
 ### The input form interface page
 <!-- ![CBIR UI Form](../project_images/abdulmalik_cbir_form_page.png) -->
 <img src="../project_images/abdulmalik_cbir_form_page.png" alt="CBIR UI Form" width="200"/>
-<br>
+
 <!-- ![CBIR UI input Form](../project_images/abdulmalik_cbir_input_form_page.png) -->
 <img src="../project_images/abdulmalik_cbir_input_form_page.png" alt="CBIR UI input Form" width="200"/>
 <br>
 ### The diagnosis support report page
 <!-- ![CBIR UI Report_Page](../project_images/abdulmalik_cbir_report_page_.png) -->
 <img src="../project_images/abdulmalik_cbir_report_page_.png" alt="CBIR UI Report_Page" width="200"/>
-<br>
+
 <!-- ![CBIR UI Report_Page](../project_images/abdulmalik_cbir_report_page.png) -->
 <img src="../project_images/abdulmalik_cbir_report_page.png" alt="CBIR UI Report_Page" width="200"/>
-<br>
+
 ### The diagnosis support report history page
 <!-- ![CBIR UI Report_History_Page](../project_images/abdulmalik_cbir_report_history_page.png) -->
 <img src="../project_images/abdulmalik_cbir_report_history_page.png" alt="CBIR UI Report_History_Page" width="200"/>
