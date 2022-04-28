@@ -20,6 +20,13 @@ This projects experiments found that:
 
 Plus a takeaway for future optimisation of the system: the implementation of other levels of details of the feature maps- i.e. by using a different layer of the CNN to get the feature maps used for comparison so as to get more specific features used for the comparison. This will most likely improve the precision of the retrieval.
 
+## Project Tech Stack
+The languages used  for this project:
+- Backend (CBIR system)- Python, Keras, Tensorflow
+- Frontend- HTML, CSS, Vanilla JS, Bootstrap
+- Serever side scripting- Django
+- Database- SQLLite- due to localised django implementation
+
 ## Project Media
 ### The user interface created for the CBIR system
 ### The input form interface page
