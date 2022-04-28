@@ -27,9 +27,9 @@ Plus a takeaway for future optimisation of the system: the implementation of oth
 <br>
 ![CBIR UI input Form](../project_images/abdulmalik_cbir_input_form_page.png)
 <br>
-![CBIR UI input Form](../project_images/abdulmalik_cbir_report_page.png)
-<br>
 ![CBIR UI input Form](../project_images/abdulmalik_cbir_report_page_.png)
+<br>
+![CBIR UI input Form](../project_images/abdulmalik_cbir_report_page.png)
 <br>
 ![CBIR UI input Form](../project_images/abdulmalik_cbir_report_history_page.png)
 <br>
