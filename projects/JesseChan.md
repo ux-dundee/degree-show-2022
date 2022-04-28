@@ -3,13 +3,9 @@ layout: project
 studentName: "Jesse Chan"
 supervisorName: "Prof. Stephen McKenna"
 projectTitle: "Maximising Performance of data augmentation in deep learning"
-projectImage: "JesseChan.jpg"
+projectImage: "JesseChan.png"
 
 ---
-1. Update the text below in order to show off your project
-2. Alter the image associated with your project in the `project_images` folder
-<hr>
-
 ## Project Aim
 This project will investigate the effect of different data augmentation techniques on a small dataset ranging from different sizes from 125 to 1500 and explore whether it will have any positive or negative effect depending on the size of the data set. We will also be investigating which augmentations will be viable and more valuable on a larger dataset of skin lesions, using a combination or a singular augment on an image to reduce overfitting.
 
