@@ -6,8 +6,7 @@ projectTitle: "A Content-based Image Retrieval System for Assisting with Medical
 projectImage: "cbir_input_form_page.png"
 
 ---
-### Notes
-
+### Content Based Image Retrieval System for Aiding Medical Diagnosis
 
 <hr>
 
