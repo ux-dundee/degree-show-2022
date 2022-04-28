@@ -6,9 +6,6 @@ projectTitle: "A Content-based Image Retrieval System for Assisting with Medical
 projectImage: "cbir_input_form_page.png"
 
 ---
-
-2. Alter the image associated with your project in the `project_images` folder
-
 ### Notes
 
 
